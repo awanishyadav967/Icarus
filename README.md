@@ -203,14 +203,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## 📌 Contact
 
-- Linkedin at [Gökberk Şen](https://www.linkedin.com/in/gokberksen/) (Marketing & Presentation)
-- Linkedin at [Sema Altınışık](https://www.linkedin.com/in/sema-altınışık-4a1b0a206) (Marketing & Presentation)
-- Linkedin at [Yunus Emre Alpu](https://www.linkedin.com/in/yunus-emre-alpu-5b1496151/) (Team & Software Lead)
+- Linkedin at [Avanish Yadav](https://www.linkedin.com/in/avanish-yadav-a1a062224/) (Team & Software Lead)
 
 
 <!-- YOUTUBE -->
 ## 📌 JOURNEY
-- Submission Video [YouTube](https://www.youtube.com/watch?v=6CBfAYTEkyg)
+- Submission Video [YouTube](https://youtu.be/0jslEGVat5o)
 - [Medium Article](https://medium.com/@yunus192alpu/2022-solution-challenge-28285005ed79)
 
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*K7VbiVoSft8SvDj9rYhxlQ.png?raw=true) 
