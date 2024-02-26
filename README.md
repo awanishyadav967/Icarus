@@ -151,7 +151,7 @@ To run any Android application built with Flutter you need to configure the envi
 - Clone this repo to your local machine using:
 
 ```
-git clone https://github.com/YunusEmreAlps/Icarus.git
+git clone https://github.com/awanishyadav967/Icarus.git
 ```
 
 ### Setup
