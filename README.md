@@ -119,6 +119,7 @@ Icaria, also spelled Ikaria, is a Greek island in the Aegean Sea, 10 nautical mi
 - [x] Food Detail Page
 - [x] Add food to Shopping Bucket/ Cart
 - [ ] Favorites
+- [ ] Gemini ChatBot
 - [ ] Settings
 - [x] Login Success Page
 - [ ] Payment System
