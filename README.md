@@ -209,7 +209,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- YOUTUBE -->
 ## 📌 JOURNEY
 - Submission Video [YouTube](https://youtu.be/0jslEGVat5o)
-- [Medium Article](https://medium.com/@yunus192alpu/2022-solution-challenge-28285005ed79)
+
 
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*K7VbiVoSft8SvDj9rYhxlQ.png?raw=true) 
 
